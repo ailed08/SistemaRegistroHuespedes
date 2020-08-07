@@ -1,0 +1,16 @@
+debug/clase_habitacion.o
+debug/crear_habitacion.o
+debug/habitaciones.o
+debug/huesped.o
+debug/main.o
+debug/mainwindow.o
+debug/registrar_huesped.o
+debug/registro.o
+debug/registros.o
+debug/tipo_habitacion.o
+debug/qrc_img.o
+debug/moc_crear_habitacion.o
+debug/moc_habitaciones.o
+debug/moc_mainwindow.o
+debug/moc_registrar_huesped.o
+debug/moc_registros.o

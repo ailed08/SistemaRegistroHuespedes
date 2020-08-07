@@ -1,0 +1,3 @@
+0,simple,45
+1,doble,80
+2,suite,150

@@ -1,0 +1,16 @@
+release/clase_habitacion.o
+release/crear_habitacion.o
+release/habitaciones.o
+release/huesped.o
+release/main.o
+release/mainwindow.o
+release/registrar_huesped.o
+release/registro.o
+release/registros.o
+release/tipo_habitacion.o
+release/qrc_img.o
+release/moc_crear_habitacion.o
+release/moc_habitaciones.o
+release/moc_mainwindow.o
+release/moc_registrar_huesped.o
+release/moc_registros.o

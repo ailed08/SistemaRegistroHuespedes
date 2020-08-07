@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/registro.jpg</file>
+        <file>images/room.jpg</file>
+        <file>images/índice.png</file>
+        <file>images/save.png</file>
+        <file>images/agregar.png</file>
+        <file>images/user-icon-vector-1.png</file>
+        <file>images/adddd.png</file>
+        <file>images/registrar.png</file>
+    </qresource>
+</RCC>
